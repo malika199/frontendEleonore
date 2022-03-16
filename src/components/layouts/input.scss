@@ -1,0 +1,24 @@
+.form-group{
+input{
+    text-transform: uppercase;
+    display: block;
+    border-width: 2px;
+    border: 1px solid #000000;
+
+}
+label{
+    padding: 5px;
+    height: 40px;
+}
+
+input::placeholder{
+
+}
+
+input::focus{
+
+}
+input::active{
+
+}
+}
